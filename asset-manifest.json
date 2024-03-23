@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/xdelta-wasm/static/js/main.167c05cf.js",
-    "index.html": "/xdelta-wasm/index.html",
-    "main.167c05cf.js.map": "/xdelta-wasm/static/js/main.167c05cf.js.map"
+    "main.js": "/BeatSaber-WebADB-Downgrader/static/js/main.167c05cf.js",
+    "index.html": "/BeatSaber-WebADB-Downgrader/index.html",
+    "main.167c05cf.js.map": "/BeatSaber-WebADB-Downgrader/static/js/main.167c05cf.js.map"
   },
   "entrypoints": [
     "static/js/main.167c05cf.js"
