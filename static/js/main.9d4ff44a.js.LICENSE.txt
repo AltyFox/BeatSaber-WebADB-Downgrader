@@ -4,8 +4,6 @@ object-assign
 @license MIT
 */
 
-/*! streamsaver. MIT License. Jimmy Wärting <https://jimmy.warting.se/opensource> */
-
 /**
  * @license
  * web-streams-polyfill v4.0.0

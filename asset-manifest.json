@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/BeatSaber-WebADB-Downgrader/static/js/main.167c05cf.js",
+    "main.js": "/BeatSaber-WebADB-Downgrader/static/js/main.9d4ff44a.js",
     "index.html": "/BeatSaber-WebADB-Downgrader/index.html",
-    "main.167c05cf.js.map": "/BeatSaber-WebADB-Downgrader/static/js/main.167c05cf.js.map"
+    "main.9d4ff44a.js.map": "/BeatSaber-WebADB-Downgrader/static/js/main.9d4ff44a.js.map"
   },
   "entrypoints": [
-    "static/js/main.167c05cf.js"
+    "static/js/main.9d4ff44a.js"
   ]
 }
