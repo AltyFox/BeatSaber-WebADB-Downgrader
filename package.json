@@ -1,8 +1,8 @@
 {
-  "name": "xdelta-wasm",
+  "name": "beatsaber-webadb-downgrader",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kotcrab.github.io/xdelta-wasm",
+  "homepage": "https://altyfox.github.io/BeatSaber-WebADB-Downgrader/",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.8.6",
